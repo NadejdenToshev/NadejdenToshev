@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadejdenToshev
-- 👀 I’m interested in iOS app development
+- 👀 I’m interested in iOS  development
 - 🌱 I’m currently learning iOS and Swift
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 How to reach me nadejdentoshev@gmail.com
